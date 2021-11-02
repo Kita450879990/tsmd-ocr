@@ -1,0 +1,20 @@
+{
+    "name": "tsmd-ocr/ocr",
+    "description": "tmsd image url ocr",
+    "type": "library",
+    "require": {
+        "tencentcloud/tencentcloud-sdk-php": "^3.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "tsmd\\ocr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KITA QIN",
+            "email": "450879990@Gmail.com"
+        }
+    ]
+}
