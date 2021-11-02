@@ -1,15 +1,6 @@
 <?php
 
 namespace tsmd\ocr\components;
-require_once 'tencentcloud/src/TencentCloud/Common/Credential.php';
-require_once 'tencentcloud/src/TencentCloud/Common/Profile/ClientProfile.php';
-require_once 'tencentcloud/src/TencentCloud/Common/Profile/HttpProfile.php';
-require_once 'tencentcloud/src/TencentCloud/Ocr/V20181119/OcrClien.php';
-require_once 'tencentcloud/src/TencentCloud/Ocr/V20181119/Models/GeneralBasicOCRRequest.php';
-require_once 'tencentcloud/src/TencentCloud/Ocr/V20181119/Models/GeneralAccurateOCRRequest.php';
-require_once 'tencentcloud/src/TencentCloud/Ocr/V20181119/Models/GeneralEfficientOCRRequest.php';
-require_once 'tencentcloud/src/TencentCloud/Ocr/V20181119/Models/GeneralFastOCRRequest.php';
-require_once 'tencentcloud/src/TencentCloud/Ocr/V20181119/Models/RecognizeTableOCRRequest.php';
 use TencentCloud\Common\Credential;
 use TencentCloud\Common\Profile\ClientProfile;
 use TencentCloud\Common\Profile\HttpProfile;
