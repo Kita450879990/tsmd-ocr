@@ -2,9 +2,6 @@
     "name": "tsmd-ocr/ocr",
     "description": "tmsd image url ocr",
     "type": "library",
-    "require": {
-        "tencentcloud/tencentcloud-sdk-php": "^3.0"
-    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
