@@ -3,8 +3,9 @@
 namespace tsmd\ocr\components;
 
 /**
- * @author Haisen <thirsight@gmail.com>
- * @since 1.0
+ * Class Ocr
+ * @package tsmd\ocr\components
+ * Ocr获取类
  */
 class Ocr
 {
