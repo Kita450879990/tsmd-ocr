@@ -6,7 +6,7 @@
     "autoload": {
         "psr-4": {
             "tsmd\\ocr\\": "src/",
-            "TencentCloud\\": "vendor/tsmd-ocr/ocr/src/components/tencentcloud/src/TencentCloud/"
+            "TencentCloud\\": "src/components/tencentcloud/src/TencentCloud/"
         }
     },
     "authors": [
