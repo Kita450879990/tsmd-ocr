@@ -16,7 +16,7 @@
  * under the License.
  */
 
-namespace tsmd\ocr\components;
+namespace TencentCloud\Common;
 use \ReflectionClass;
 
 /**

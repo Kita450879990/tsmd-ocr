@@ -5,7 +5,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "tsmd\\ocr\\": "src/"
+            "tsmd\\ocr\\": "src/",
+            "TencentCloud\\": "vendor/tsmd-ocr/ocr/src/components/tencentcloud/src/TencentCloud/"
         }
     },
     "authors": [
